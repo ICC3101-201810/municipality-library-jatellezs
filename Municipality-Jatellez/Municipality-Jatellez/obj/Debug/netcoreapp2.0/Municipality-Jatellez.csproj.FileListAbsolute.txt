@@ -1,0 +1,11 @@
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\bin\Debug\netcoreapp2.0\Municipality-Jatellez.deps.json
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\bin\Debug\netcoreapp2.0\Municipality-Jatellez.runtimeconfig.json
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\bin\Debug\netcoreapp2.0\Municipality-Jatellez.runtimeconfig.dev.json
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\bin\Debug\netcoreapp2.0\Municipality-Jatellez.dll
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\bin\Debug\netcoreapp2.0\Municipality-Jatellez.pdb
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\obj\Debug\netcoreapp2.0\Municipality-Jatellez.csprojResolveAssemblyReference.cache
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\obj\Debug\netcoreapp2.0\Municipality-Jatellez.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\obj\Debug\netcoreapp2.0\Municipality-Jatellez.AssemblyInfoInputs.cache
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\obj\Debug\netcoreapp2.0\Municipality-Jatellez.AssemblyInfo.cs
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\obj\Debug\netcoreapp2.0\Municipality-Jatellez.dll
+C:\Users\joaqu\OneDrive\Documentos\GitHub\municipality-library-jatellezs\Municipality-Jatellez\Municipality-Jatellez\obj\Debug\netcoreapp2.0\Municipality-Jatellez.pdb
